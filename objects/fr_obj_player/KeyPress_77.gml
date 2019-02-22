@@ -1,5 +1,5 @@
 //attack
-switch (image_angle) {
+/*switch (image_angle) {
 
 	case 0:
 		instance_create_depth(x+34, y, 1, fr_obj_attack);
@@ -26,4 +26,4 @@ switch (image_angle) {
 		instance_create_depth(x+24, y+24, 1, fr_obj_attack);
 	break;
 	
-}
+}*/
