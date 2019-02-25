@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "269dbbab-7ab2-43ce-a42d-54c43d3867f3",
+            "Value": {
+                "id": "c40c2a3c-f1ad-429a-818f-43b3dd705489",
+                "resourcePath": "objects\\obj_teleport1_spawner\\obj_teleport1_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "39ced3a8-1ba4-4c08-801e-d4da3d30a390",
             "Value": {
                 "id": "92b39bc2-f9b7-4c43-b1af-d856e90ca90d",
