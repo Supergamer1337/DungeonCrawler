@@ -82,7 +82,7 @@
             "Key": "5ad68154-8358-43ed-a58f-af63450ef1e4",
             "Value": {
                 "id": "0d8b976e-2cfc-49eb-aea1-30c7bb0c9555",
-                "resourcePath": "objects\\fr_obj_teleport\\fr_obj_teleport.yy",
+                "resourcePath": "objects\\fr_obj_teleport_1\\fr_obj_teleport_1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -236,6 +236,14 @@
                 "id": "e4ef1824-e60c-4fd0-b398-a3cd2608ad8c",
                 "resourcePath": "sprites\\fr_spr_player\\fr_spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1d09a3f-daa1-40a4-8f57-579350bd74de",
+            "Value": {
+                "id": "6460465f-5d14-4d7a-a7d2-04d5275eabfd",
+                "resourcePath": "objects\\fr_obj_teleport_1_spawn\\fr_obj_teleport_1_spawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
