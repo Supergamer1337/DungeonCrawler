@@ -1,3 +1,3 @@
 //Declares Variables
 spd=7;
-atk=50;
+atk=60;
