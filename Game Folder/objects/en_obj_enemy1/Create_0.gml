@@ -1,3 +1,5 @@
 //Declacre Variables
 sight=300;
-enspd=7.5;
+hp=20;
+max_hp=20;
+knockback=false;
