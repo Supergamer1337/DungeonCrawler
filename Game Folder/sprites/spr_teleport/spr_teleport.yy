@@ -2,7 +2,7 @@
     "id": "46cad449-89bd-4cc9-a223-e08f8cd3ece8",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "fr_spr_teleport",
+    "name": "spr_teleport",
     "For3D": false,
     "HTile": false,
     "VTile": false,
