@@ -1,2 +1,8 @@
+if(hit=true){
+	direction=point_direction(x, y, en_obj_boss.x, en_obj_boss.y);
+	speed=20;
+}
+else{
 direction=point_direction(x, y, fr_obj_player.x, fr_obj_player.y);
-speed=30;
+speed=20;
+}
