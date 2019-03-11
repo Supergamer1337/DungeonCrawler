@@ -14,7 +14,7 @@ else if(keyboard_check_pressed(vk_down)){
 
 //Health
 if (cantakedamage=true){
-	if (place_meeting(x, y, en_obj_enemy1)){
+	if (place_meeting(x, y, en_obj_enemy1)) or (place_meeting(x, y, en_obj_projectile)){
 		hp -=20;
 		cantakedamage=false;
 		alarm[0]=15;
@@ -23,7 +23,7 @@ if (cantakedamage=true){
 		}
 	}
 }
-
+//Collision
 if place_meeting(x + hspeed, y, obj_wall){
 hspeed = 0
 }
