@@ -2,7 +2,7 @@
     "id": "b6424d88-1129-47ad-9300-51d076f09443",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_teleport1",
+    "name": "obj_teleporter1",
     "eventList": [
         {
             "id": "a7cf22fd-120f-4fbb-b30a-2d2856e67718",
