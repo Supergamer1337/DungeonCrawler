@@ -1,18 +1,24 @@
 //Diagonal Movement
-if(keyboard_check(ord("A"))){
+//collison
+if !place_meeting(x, y-spd, obj_wall){
 	
-	y-=spd;
-	image_angle=135;
-
-}
-else if (keyboard_check(ord("D"))){
+	if(keyboard_check(ord("A"))){
 	
-	y-=spd;
-	image_angle=45;
+		y-=spd;
+		//image_angle=135;
 
+	}
+	else if (keyboard_check(ord("D"))){
+	
+		y-=spd;
+		//image_angle=45;
 
+	}
+	else {
+		y-=spd;
+		image_angle=90;
+	}
 }
-else {
-	y-=spd;
-	image_angle=90;
+else{
+	//kys
 }
