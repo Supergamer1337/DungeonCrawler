@@ -1,14 +1,18 @@
 // Attack
 if(keyboard_check_pressed(vk_left)){
+	wepDir=180;
 	instance_create_depth(x-atk, y, 1, fr_obj_attack);
 }
 else if(keyboard_check_pressed(vk_right)){
+	wepDir=0;
 	instance_create_depth(x+atk, y, 1, fr_obj_attack);
 }
 else if(keyboard_check_pressed(vk_up)){
+	wepDir=90;
 	instance_create_depth(x, y-atk, 1, fr_obj_attack);
 }
 else if(keyboard_check_pressed(vk_down)){
+	wepDir=270;
 	instance_create_depth(x, y+atk, 1, fr_obj_attack);
 }
 
@@ -23,13 +27,4 @@ if (cantakedamage=true){
 		}
 	}
 }
-//Collision
-			//this code does nothing
-/*
-if place_meeting(x + hspeed, y, obj_wall){
-hspeed = 0
-};
-if place_meeting(x, y + vspeed, obj_wall){
-vspeed = 0
-};
-*/
+
