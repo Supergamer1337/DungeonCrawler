@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "8fe57e79-2e10-4ce4-8277-1a26fe85f205",
+            "Value": {
+                "id": "fee5bfaf-dbb9-4d04-8b52-8b19f245fdd5",
+                "resourcePath": "fonts\\font\\font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "911db143-809f-477f-b90b-49d01b947bf8",
             "Value": {
                 "id": "2af37577-9555-4f5d-b2b1-2daa6cb72e2f",
@@ -308,6 +316,14 @@
                 "id": "a6404f71-af40-40d2-8089-6b7089203614",
                 "resourcePath": "views\\bc5fec1d-c49d-4015-88dc-b61dbbdd24fc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bcbee626-5dc6-4b72-a1ad-06c3eec030da",
+            "Value": {
+                "id": "d06cec53-19bb-4088-83e4-f15e65e52523",
+                "resourcePath": "fonts\\Boss\\Boss.yy",
+                "resourceType": "GMFont"
             }
         },
         {
