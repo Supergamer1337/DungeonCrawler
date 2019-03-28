@@ -8,7 +8,7 @@ switch (room){
 
 	case test2:
 		if(instance_number(en_obj_enemy1) <= 0){
-		instance_create_depth(624, 464, 1, obj_teleporter2);
+		instance_create_depth(150, 150, 1, obj_teleporter2);
 		}
 	break;
 	
